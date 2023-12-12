@@ -37,7 +37,7 @@ cd iris-cnn
 jupyter notebook
 ```
 
-Open the "iris_cnn_example.ipynb" notebook and execute each cell to see the step-by-step process of implementing the CNN on the Iris dataset.
+Open the "cnns-using-iris-dataset.ipynb" notebook and execute each cell to see the step-by-step process of implementing the CNN on the Iris dataset.
 
 ## Dataset
 
